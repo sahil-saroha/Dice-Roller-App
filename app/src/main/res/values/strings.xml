@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Roll App</string>
+    <string name="textShownOfRandom"></string>
+    <string name="buttonhai">Roll</string>
+</resources>
